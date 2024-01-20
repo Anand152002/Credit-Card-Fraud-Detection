@@ -6,6 +6,7 @@ The accuracy of training data is 94.4%
 The accuraccy of test data is 92.8%
 
 Data Set link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ![Screenshot 2024-01-20 205410](https://github.com/Anand152002/Credit-Card-Fraud-Detection/assets/84716645/445633f3-3a98-4cdd-9bcd-6ea746ceada5)
 
 ![Screenshot 2024-01-20 205454](https://github.com/Anand152002/Credit-Card-Fraud-Detection/assets/84716645/0b16e3ae-f1d2-4a7f-8222-dd6807ca555b)
